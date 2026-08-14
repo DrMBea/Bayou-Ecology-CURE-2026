@@ -124,15 +124,17 @@ Students will work in small research teams as part of an Ecology CURE. Each team
 
 ## Deliverables Checklist
 
-- [ ] **Original Syllabus:** [original_syllabus.pdf](./original_syllabus.pdf)
-- [ ] **Revised Syllabus:** [revised_syllabus.pdf](./revised_syllabus.pdf)
-- [ ] **Gateways 2026 Poster:** [poster_final.pdf](./poster_final.pdf)
-- [ ] **SGX3 Blog Post Draft:** [blog_post.md](./blog_post.md)
-- [ ] **CURE Module Overview:** [cure_module_overview.md](./cure_module_overview.md)
-- [ ] **Student Team Charter Template:** [team_charter_template.md](./team_charter_template.md)
-- [ ] **Guided Jupyter Notebook Activity:** [notebooks/ecology_cure_activity.ipynb](./notebooks/ecology_cure_activity.ipynb)
-- [ ] **Low-Bandwidth Backup Activity:** [backup_activity.md](./backup_activity.md)
-- [ ] **Assessment Rubric:** [assessment_rubric.md](./assessment_rubric.md)
+- [x] **Original Syllabus:** [original_syllabus.pdf](./original_syllabus.pdf)
+- [x] **Revised Syllabus:** [revised_syllabus.pdf](./revised_syllabus.pdf)
+- [x] **Fall 2026 Full Syllabus:** [fall_2026_full_syllabus.pdf](./fall_2026_full_syllabus.pdf)
+- [x] **Gateways 2026 Poster:** [poster_final.pdf](./poster_final.pdf)
+- [x] **SGX3 Blog Post Draft:** [blog_post.md](./blog_post.md)
+- [x] **CURE Module Overview:** [cure_module_overview.md](./cure_module_overview.md)
+- [x] **Student Team Charter Template:** [team_charter_template.md](./team_charter_template.md)
+- [x] **Guided Jupyter Notebook Activity:** [ecology_cure_activity.ipynb](./notebooks/ecology_cure_activity.ipynb)
+- [x] **Low-Bandwidth Backup Activity:** [backup_activity.md](./backup_activity.md)
+- [x] **Assessment Rubric:** [assessment_rubric.md](./assessment_rubric.md)
+- [x] **Sample Louisiana Wetland Dataset:** [louisiana_wetland_sample_data.csv](./data/louisiana_wetland_sample_data.csv)
 
 ---
 
