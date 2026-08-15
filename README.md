@@ -25,7 +25,7 @@ Dr. Mary K. Beals is an Assistant Professor of Practice in Biology at Southern U
 Dr. Beals' current teaching and curriculum work focuses on integrating AI, Science Gateways, cloud-based tools, and course-based undergraduate research experiences into biology education. Through this FacultyHack@Gateways project, she is developing a practical pathway for biology majors at an HBCU to engage with ecological data, computational thinking, and authentic research questions connected to Louisiana ecosystems.
 
 ### Faculty Headshot
-<img height="600" alt="image" src="https://github.com/user-attachments/assets/85b3d0a0-5553-4634-a648-430554f7cced" />
+<img height="500" alt="image" src="https://github.com/user-attachments/assets/85b3d0a0-5553-4634-a648-430554f7cced" />
 
 
 ---
