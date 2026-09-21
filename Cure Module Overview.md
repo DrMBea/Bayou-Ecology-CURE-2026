@@ -48,13 +48,13 @@ Students reflect on their research process, teamwork, data decisions, tool use, 
 
 | Week | Focus | Student Product |
 |---|---|---|
-| Week 1 | Introduce CURE and team charter | Team charter |
-| Week 2 | Research question development | Research question and rationale |
-| Week 3 | Dataset orientation | Dataset notes and variable list |
-| Week 4 | Guided notebook activity | Completed Jupyter notebook or backup worksheet |
-| Week 5 | Visualization and interpretation | Draft figure and interpretation paragraph |
-| Week 6 | Scientific communication | Presentation/poster/infographic/written summary |
-| Week 7 | Reflection and revision | Individual reflection |
+| Week 1-2   | Introduce CURE and team charter | Team charter |
+| Week 3-4   | Research question development | Research question and rationale |
+| Week 5-5   | Dataset orientation | Dataset notes and variable list |
+| Week 7-8   | Guided notebook activity | Completed Jupyter notebook or backup worksheet |
+| Week 9-10  | Visualization and interpretation | Draft figure and interpretation paragraph |
+| Week 11-12 | Scientific communication | Presentation/poster/infographic/written summary |
+| Week 13-14 | Reflection and revision | Individual reflection |
 
 ## Tools and Resources
 - NAIRR CloudBank Classroom
@@ -70,6 +70,3 @@ Students may use approved AI or digital tools to support brainstorming, organiza
 Minimum disclosure statement:
 
 > I used [tool name] to support [specific task]. I reviewed, revised, and verified the output, and the final interpretation represents my own understanding.
-
-## Instructor Notes
-Start small. The first version of this CURE should prioritize student confidence, ecological reasoning, and successful completion over technical complexity. Advanced HPC concepts can be introduced later as enrichment once students understand the ecological workflow.
