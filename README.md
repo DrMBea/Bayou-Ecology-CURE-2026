@@ -127,7 +127,7 @@ Students will work in small research teams as part of an Ecology CURE. Each team
 - [x] **Original Syllabus:** [original_syllabus.pdf](./original_syllabus.pdf)
 - [x] **Revised Syllabus:** [revised_syllabus.pdf](./revised_syllabus.pdf)
 - [x] **Fall 2026 Full Syllabus:** [fall_2026_full_syllabus.pdf](./fall_2026_full_syllabus.pdf)
-- [x] **Gateways 2026 Poster:** [FacultyHack Poster Markdown PDF](./DrMKB_FacultyHack26_Poster.pdf)
+- [x] **Gateways 2026 Poster:** [FacultyHack Poster PDF](./DrMKB_FacultyHack26_Poster.pdf)
 - [x] **SGX3 Blog Post Draft:** [blog_post.md](./blog_post.md)
 - [x] **CURE Module Overview:** [cure_module_overview.md](./cure_module_overview.md)
 - [x] **Student Team Charter Template:** [team_charter_template.md](./team_charter_template.md)
